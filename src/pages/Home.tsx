@@ -6,18 +6,18 @@ const Home: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
-     <ion-toolbar>
-        <ion-buttons slot="start">
-          <ion-menu-button auto-hide="false"></ion-menu-button>
-        </ion-buttons>
-        <ion-buttons slot="primary">
-          <ion-button>
-            <ion-icon slot="icon-only" ios="ellipsis-horizontal" md="ellipsis-vertical"></ion-icon>
-          </ion-button>
-        </ion-buttons>
+     <Ion-toolbar>
+        <Ion-buttons slot="start">
+          <Ion-menu-button auto-hide="false"></ion-menu-button>
+        </Ion-buttons>
+        <Ion-buttons slot="primary">
+          <Ion-button>
+            <Ion-icon slot="icon-only" ios="ellipsis-horizontal" md="ellipsis-vertical"></ion-icon>
+          </Ion-button>
+        </Ion-buttons>
 
-        <ion-title>Standard</ion-title>
-      </ion-toolbar>
+        <Ion-title>Standard</ion-title>
+      </Ion-toolbar>
       </IonHeader>
       <IonContent className="ion-padding">
         The world is your oyster.
