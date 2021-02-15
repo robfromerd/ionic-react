@@ -8,15 +8,15 @@ const Home: React.FC = () => {
       <IonHeader>
      <Ion-toolbar>
         <Ion-buttons slot="start">
-          <Ion-menu-button auto-hide="false"></ion-menu-button>
+          <Ion-menu-button auto-hide="false"></Ion-menu-button>
         </Ion-buttons>
         <Ion-buttons slot="primary">
           <Ion-button>
-            <Ion-icon slot="icon-only" ios="ellipsis-horizontal" md="ellipsis-vertical"></ion-icon>
+            <Ion-icon slot="icon-only" ios="ellipsis-horizontal" md="ellipsis-vertical"></Ion-icon>
           </Ion-button>
         </Ion-buttons>
 
-        <Ion-title>Standard</ion-title>
+        <Ion-title>Standard</Ion-title>
       </Ion-toolbar>
       </IonHeader>
       <IonContent className="ion-padding">
