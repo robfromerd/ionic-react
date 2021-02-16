@@ -6,7 +6,7 @@ const Home: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Ionic Blank Upated</IonTitle>
+          <IonTitle>Ionic Blank Updated</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent className="ion-padding">
